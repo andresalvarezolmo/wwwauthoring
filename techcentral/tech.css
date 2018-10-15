@@ -1,0 +1,10 @@
+h1 {
+  background-color: LightGrey;
+}
+
+.subheader {
+  background: grey;
+  display: flex;
+  color: white;
+  font-size: 12px;
+}
